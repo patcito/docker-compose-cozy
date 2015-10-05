@@ -1,0 +1,10 @@
+---
+name: cozy 
+blurb: Own, Centralize and Connect Your Data
+description: |
+  Just "cd cozy" and run git submodule init && git submodule update --remote && docker-compose up 
+email: patcito@gmail.com
+repo_url: http://github.com/patcito/docker-compose-cozy
+tags: cozy,cloud,photo,files,email,calendar,sync 
+private: false
+cmd: git submodule init && git submodule update --remote && docker-compose up 
