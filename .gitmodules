@@ -1,110 +1,15 @@
-[submodule "vim/bundle/pathogen"]
-	path = vim/bundle/pathogen
-	url = https://github.com/tpope/vim-pathogen.git
-	branch = master
-[submodule "vim/bundle/nerdtree"]
-	path = vim/bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
-	branch = master
-[submodule "vim/bundle/undotree"]
-	path = vim/bundle/undotree
-	url = https://github.com/mbbill/undotree.git
-	branch = master
-[submodule "vim/bundle/vim-signature"]
-	path = vim/bundle/vim-signature
-	url = https://github.com/kshenoy/vim-signature.git
-	branch = master
-[submodule "vim/bundle/tcomment_vim"]
-	path = vim/bundle/tcomment_vim
-	url = https://github.com/tomtom/tcomment_vim.git
-	branch = master
-[submodule "vim/bundle/vim-autotags"]
-	path = vim/bundle/vim-autotags
-	url = https://github.com/basilgor/vim-autotags.git
-	branch = master
-[submodule "zsh/oh-my-zsh"]
-	path = zsh/oh-my-zsh
-	url = https://github.com/robbyrussell/oh-my-zsh.git
-	branch = master
-[submodule "vim/bundle/vim-gnupg"]
-	path = vim/bundle/vim-gnupg
-	url = https://github.com/jamessan/vim-gnupg.git
-	branch = master
-[submodule "vim/bundle/riv"]
-	path = vim/bundle/riv
-	url = https://github.com/Rykka/riv.vim
-	branch = master
-[submodule "vim/bundle/vim-asciidoc"]
-	path = vim/bundle/vim-asciidoc
-	url = https://github.com/romanvbabenko/vim-asciidoc
-	branch = master
-[submodule "zsh/scripts/google-translate-cli"]
-	path = zsh/scripts/google-translate-cli
-	url = https://github.com/soimort/google-translate-cli.git
-	branch = master
-[submodule "mutt/carddav/pycarddav"]
-	path = mutt/carddav/pycarddav
-	url = https://github.com/geier/pycarddav.git
-	branch = master
-[submodule "vim/bundle/vim-less"]
-	path = vim/bundle/vim-less
-	url = https://github.com/genoma/vim-less
-	branch = master
-[submodule "vim/bundle/vim-jade"]
-	path = vim/bundle/vim-jade
-	url = https://github.com/digitaltoad/vim-jade
-	branch = master
-[submodule "vim/bundle/vim-velocity"]
-	path = vim/bundle/vim-velocity
-	url = https://github.com/lepture/vim-velocity.git
-	branch = master
-[submodule "vim/bundle/vim-characterize"]
-	path = vim/bundle/vim-characterize
-	url = https://github.com/tpope/vim-characterize.git
-	branch = master
-[submodule "vim/bundle/clickable"]
-	path = vim/bundle/clickable
-	url = https://github.com/Rykka/clickable.vim.git
-	branch = master
-[submodule "vim/bundle/os"]
-	path = vim/bundle/os
-	url = https://github.com/Rykka/os.vim.git
-[submodule "irssi/scripts/scripts.irssi.org"]
-	path = irssi/scripts/scripts.irssi.org
-	url = https://github.com/irssi/scripts.irssi.org.git
-[submodule "tmux/plugins/tpm"]
-	path = tmux/plugins/tpm
-	url = https://github.com/tmux-plugins/tpm
-[submodule "vim/bundle/vim-tmux"]
-	path = vim/bundle/vim-tmux
-	url = https://github.com/tmux-plugins/vim-tmux.git
-[submodule "vim/bundle/vim-tcpdump"]
-	path = vim/bundle/vim-tcpdump
-	url = https://github.com/1995parham/vim-tcpdump.git
-[submodule "vim/bundle/vim-airline"]
-	path = vim/bundle/vim-airline
-	url = https://github.com/bling/vim-airline
-[submodule "nvm"]
-	path = nvm
-	url = https://github.com/creationix/nvm.git
-[submodule "docker/docker-cleanup-volumes"]
-	path = docker/docker-cleanup-volumes
-	url = https://github.com/chadoe/docker-cleanup-volumes.git
-[submodule "docker/cozy/cozy-conf"]
-	path = docker/cozy/cozy-conf
+[submodule "cozy-conf"]
+	path = cozy-conf
 	url = https://github.com/spiroid/cozy-conf
-[submodule "docker/cozy/cozy-couchdb-data"]
-	path = docker/cozy/cozy-couchdb-data
+[submodule "cozy-couchdb-data"]
+	path = cozy-couchdb-data
 	url = https://github.com/spiroid/cozy-couchdb-data
-[submodule "docker/cozy/cozy-couchdb"]
-	path = docker/cozy/cozy-couchdb
+[submodule "cozy-couchdb"]
+	path = cozy-couchdb
 	url = https://github.com/spiroid/cozy-couchdb
-[submodule "docker/cozy/cozy-data-indexer"]
-	path = docker/cozy/cozy-data-indexer
+[submodule "cozy-data-indexer"]
+	path = cozy-data-indexer
 	url = https://github.com/spiroid/cozy-data-indexer
-[submodule "docker/cozy/cozy-controller"]
-	path = docker/cozy/cozy-controller
+[submodule "cozy-controller"]
+	path = cozy-controller
 	url = https://github.com/woshilapin/cozy-controller
-[submodule "vim/bundle/tern"]
-	path = vim/bundle/tern
-	url = https://github.com/marijnh/tern_for_vim.git
